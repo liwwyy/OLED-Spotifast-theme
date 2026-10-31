@@ -1,6 +1,6 @@
 # OLED-Spotifast-theme
 
-A true-black theme for [Spotifast](https://spotifast.rocks/), with charcoal surfaces, cool white text and mint accents. Inspired by the bundled Nord and Tokyo Night palettes.
+A true-black theme for [Spotifast](https://spotifast.rocks/), with soft charcoal surfaces, muted warm-gray text and pastel red accents. Inspired by the bundled Nord and Tokyo Night palettes.
 
 ## Install
 
